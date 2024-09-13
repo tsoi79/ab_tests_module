@@ -1,2 +1,34 @@
-# ab_tests_module
-The module includes functions for data processing and statistical tests
+### Carpov.courses
+
+### Курсы "Аналитик данных", поток 52.
+
+# Финальный проект
+
+## Вариант 2
+
+Выполнил Цой Александр 
+tsoi79@mail.ru
+ale-tsoj
+
+**Репозиторий содержит следующие файлы:**
+
+Ноутбуки с подробным описание хода выполнения заданий:
+
+- v2_task1.ipynb
+- v2_task1.ipynb
+- v2_task1.ipynb
+
+Модуль с разработанными функциями:
+
+- function.py
+
+Ноутбук, в котором тестировался модуль:
+
+- module_testing.ipynb
+
+Файлы для проверки заданий:
+- groups.csv
+- groups_add.csv
+- active_stud.csv
+- checks.csv
+В репозитории отсутствуют. В заданиях подразумевается, что они лежат в рабочей директории.
